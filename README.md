@@ -1,1 +1,1 @@
-pycharm打开，运行gui_main.py
+pycharm， run gui_main.py
